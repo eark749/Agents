@@ -1,0 +1,59 @@
+{
+  "eval_set_id": "evalsetc3466c",
+  "name": "evalsetc3466c",
+  "eval_cases": [
+    {
+      "eval_id": "casec47a45",
+      "conversation": [
+        {
+          "invocation_id": "e-2238c8c3-3dc9-422d-a743-9d02669db713",
+          "user_content": {
+            "parts": [
+              {
+                "text": "hello"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": {
+            "parts": [
+              {
+                "text": "Hello there! I'm here to assist you. May I ask for your name?\n"
+              }
+            ],
+            "role": "model"
+          },
+          "intermediate_data": {},
+          "creation_timestamp": 1766330140.974539
+        },
+        {
+          "invocation_id": "e-5664d305-f71c-4cc1-b923-8da7b45e9a87",
+          "user_content": {
+            "parts": [
+              {
+                "text": "vansh how about u"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": {
+            "parts": [
+              {
+                "text": "Hello Vansh, it's a pleasure to meet you! I'm doing well, thank you for asking. How can I help you today?\n"
+              }
+            ],
+            "role": "model"
+          },
+          "intermediate_data": {},
+          "creation_timestamp": 1766330149.348746
+        }
+      ],
+      "session_input": {
+        "app_name": "greeting_agent",
+        "user_id": "user"
+      },
+      "creation_timestamp": 1766330173.0111609
+    }
+  ],
+  "creation_timestamp": 1766330169.6539304
+}
